@@ -1,4 +1,5 @@
 # ERC721 & Crypto Collectibles 
+
 - [Token](#token)
 - [Why does it matter?](#why-does-it-matter)
 - [Other token standards](#other-token-standards)

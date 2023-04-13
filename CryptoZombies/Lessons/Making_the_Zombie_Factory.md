@@ -17,7 +17,7 @@
 - [Events](#events)
 - [Web3.js](#web3js)
 
-
+<br>
 
 # State Variables & Integers
 

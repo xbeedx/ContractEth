@@ -19,7 +19,6 @@
 - [Querying past events](#querying-past-events)
 
 
-
 <br>
 
 # What is Web3.js?
