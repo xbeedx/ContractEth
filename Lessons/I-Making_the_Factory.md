@@ -1,4 +1,4 @@
-# Making the Zombie Factory
+# Making the Factory
 
 - [State Variables & Integers](#state-variables--integers)
 - [Math Operations](#math-operations)
